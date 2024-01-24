@@ -1,19 +1,4 @@
-This is a simple C program that demonstrates how to create a file and write data to it. Here's how the program works:
-
-1. The `main()` function starts by creating a file pointer called `fp`.
-2. The `fopen()` function is then used to open the file `myfile.txt` in write mode (`"w"`). If the file does not exist, it will be created.
-3. The `fputs()` function is used to write the string `"This is some data.\n"` to the file.
-4. Finally, the `fclose()` function is used to close the file.
-
-If you run this program, it will create a file called `myfile.txt` in the same directory as the program, and write the string `"This is some data."` to it. If the file already exists, its contents will be overwritten.
-
-I hope this helps you understand how to create and write to files in C!
-
-Source: Conversation with Bing, 24/1/2024
-(1) Basics of File Handling in C - GeeksforGeeks. https://www.geeksforgeeks.org/basics-file-handling-c/.
-(2) File Handling Functions in Python with Examples - Itsourcecode.com. https://itsourcecode.com/python-tutorial/file-handling-functions-in-python/.
-(3) File Handling in C | GATE Notes - BYJU'S. https://byjus.com/gate/file-handling-in-c/.
-(4) File handling in C - javatpoint. https://www.javatpoint.com/file-handling-in-c.<h1 align="center">HI 👋, I'M VIKASH SINGH NINGWAL</h1>
+<h1 align="center">HI 👋, I'M VIKASH SINGH NINGWAL</h1>
 <h3 align="center">I'M A 2ND YEAR B.TECH STUDENT OF SHRI GOVINDRAM SEKSARIA INSTITUTE OF TECHNOLOGY AND SCIENCE,INDOOR,MADHYA PRADESH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-ningwal&label=Profile%20views&color=0e75b6&style=flat" alt="vikash-ningwal" /> </p>
